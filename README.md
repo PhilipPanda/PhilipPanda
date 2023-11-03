@@ -6,6 +6,11 @@
 ## My Website
 https://templeenterprise.com
 
+## Projects
+- SecurOS: Ubuntu based linux operating system made for pen-testing and cyber-security experts.
+- Temple-Cleint: Minecraft 1.12.2 Utility mod to enhance players experience
+- https://templecheats.xyz: Cheats for many games such as Rust, R6, DBD.
+
 ## Languages
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
