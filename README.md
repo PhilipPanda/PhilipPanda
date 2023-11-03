@@ -19,5 +19,3 @@ https://templeenterprise.com
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilipPanda&show_icons=true&theme=onedark&count_private=true)
