@@ -5,6 +5,7 @@
 
 ## My Website
 https://templeenterprise.com
+- You can hire me to make websites.
 
 ## Projects
 - SecurOS: Ubuntu based linux operating system made for pen-testing and cyber-security experts.
