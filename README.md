@@ -5,7 +5,6 @@
 
 ## My Website
 https://templeenterprise.com
-- You can hire me to make websites.
 
 ## Languages
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
