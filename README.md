@@ -9,7 +9,9 @@ https://templeenterprise.com
 
 ## Projects
 [SecurOS]("https://securos.org"): Arch based linux distrobution made for pen-testing and cyber security experts.
+
 [Temple Cheats]("https://templecheats.xyz"): Utility mod for Minecraft 1.12.2 that gives you an advatnage over Vanilla players.
+
 [Temple Enterprise]("https://templeenterprise.com"): Website & Software development company.
 
 ## Languages
