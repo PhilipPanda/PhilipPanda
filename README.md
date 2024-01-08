@@ -8,9 +8,9 @@ https://templeenterprise.com
 - You can hire me to make websites & software.
 
 ## Projects
-[SecurOS](https://securos.org): Arch based linux distrobution made for pen-testing and cyber security experts.
+[SecurOS](https://securos.org): Arch based linux distribution made for pen-testing and cybersecurity experts.
 
-[Temple Cheats](https://templecheats.xyz): Utility mod for Minecraft 1.12.2 that gives you an advatnage over Vanilla players.
+[Temple Cheats](https://templecheats.xyz): Utility mod for Minecraft 1.12.2 that gives you an advantage over Vanilla players.
 
 [Temple Enterprise](https://templeenterprise.com): Website & Software development company.
 
