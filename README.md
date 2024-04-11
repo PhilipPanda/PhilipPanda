@@ -10,7 +10,7 @@ https://templeenterprise.com
 ## Projects
 [SecurOS](https://securos.org): Arch based linux distribution made for pen-testing and cybersecurity experts.
 
-[Temple Cheats](https://templecheats.xyz): Utility mod for Minecraft 1.12.2 that gives you an advantage over Vanilla players.
+[Temple Cheats](https://templecheats.xyz): Temple Client is a 1.12.2 Minecraft utility mod that enhances the anarchy server experience.
 
 [Temple Enterprise](https://templeenterprise.com): Website & Software development company.
 
