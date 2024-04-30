@@ -8,7 +8,7 @@ https://templeenterprise.com
 - You can hire me to make websites & software.
 
 ## My Profile
-https://e-z.bio/philippanda
+https://guns.lol/philippanda
 
 ## Projects
 [SecurOS](https://securos.org): Arch based linux distribution made for pen-testing and cybersecurity experts.
