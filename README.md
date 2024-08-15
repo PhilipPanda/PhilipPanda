@@ -1,6 +1,6 @@
 ## Welcome
 
-- 📫 Discord: ```@philippanda```
+- 📫 Discord: ```@templeterry```
 - 📫 Email: contact@templeenterprise.com
 
 ## My Website
