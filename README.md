@@ -1,31 +1,28 @@
 ## Welcome
 
-- 📫 Discord: ```@templeterry```
-- 📫 Email: contact@templeenterprise.com
+- 📫 Discord: `@templeterry`
+- 📫 Email: [contact@templeenterprise.com](mailto:contact@templeenterprise.com)
 
 ## My Website
-https://templeenterprise.com 
-- You can hire me to make websites & software.
+[Temple Enterprise](https://templeenterprise.com)  
+*Hire me to make websites & software.*
 
 ## My Profile
-https://guns.lol/philippanda
+[Philippanda @ Guns.lol](https://guns.lol/philippanda)
 
 ## Projects
-[SecurOS](https://securos.org): Arch based linux distribution made for pen-testing and cybersecurity experts.
+- [**SecurOS**](https://securos.org): Arch-based Linux distribution tailored for pen-testing and cybersecurity experts.
+- [**Temple Cheats**](https://templecheats.xyz): Temple Client is a 1.12.2 Minecraft utility mod that enhances the anarchy server experience.
+- [**Temple Enterprise**](https://templeenterprise.com): Website & Software development company.
 
-[Temple Cheats](https://templecheats.xyz): Temple Client is a 1.12.2 Minecraft utility mod that enhances the anarchy server experience.
+## Languages & Tools
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-[Temple Enterprise](https://templeenterprise.com): Website & Software development company.
-
-## Languages
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
-![audsis' GitHub stats](https://github-readme-stats.vercel.app/api?username=philippanda&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=philippanda&theme=tokyonight)](https://git.io/streak-stats)
+## GitHub Stats
+![philips GitHub stats](https://github-readme-stats.vercel.app/api?username=philippanda&show_icons=true&theme=tokyonight)
