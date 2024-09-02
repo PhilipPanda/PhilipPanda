@@ -3,12 +3,8 @@
 - 📫 Discord: `@templeterry`
 - 📫 Email: [contact@templeenterprise.com](mailto:contact@templeenterprise.com)
 
-## My Website
+## My Company
 [Temple Enterprise](https://templeenterprise.com)  
-*Hire me to make websites & software.*
-
-## My Profile
-[Philippanda @ Guns.lol](https://guns.lol/philippanda)
 
 ## Projects
 - [**SecurOS**](https://securos.org): Arch-based Linux distribution tailored for pen-testing and cybersecurity experts.
