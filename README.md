@@ -1,24 +1,39 @@
-## Welcome
+```markdown
+```
+██████████████████████████████████████████████████████
+██                                                  ██
+██          Temple Enterprise @ philippanda          ██
+██                                                  ██
+██████████████████████████████████████████████████████
 
-- 📫 Discord: `@templeterry`
-- 📫 Email: [contact@templeenterprise.com](mailto:contact@templeenterprise.com)
+   ▄▄▄▄▄▄▄  Projects
+   ║ SecurOS       -->  Arch-based Linux distro for pen-testing
+   ║ Temple Cheats -->  Game cheats development
+   ║ Temple Enterprise -->  Web & software development services
 
-## My Company
-[Temple Enterprise](https://templeenterprise.com)  
+   ▄▄▄▄▄▄▄  Links
+   ║ Website     -->  templeenterprise.com
+   ║ SecurOS     -->  securos.org
+   ║ Temple Cheats -->  templecheats.xyz
+   ║ GitHub      -->  github.com/philippanda
+   ║ Email       -->  contact@templeenterprise.com
+   ║ Discord     -->  @templeterry
 
-## Projects
-- [**SecurOS**](https://securos.org): Arch-based Linux distribution tailored for pen-testing and cybersecurity experts.
-- [**Temple Cheats**](https://templecheats.xyz): Develops cheats for various games.
-- [**Temple Enterprise**](https://templeenterprise.com): Website & Software development company.
+   ▄▄▄▄▄▄▄  Languages & Tools
+   ║ HTML5       -->  ██████████████ 100%
+   ║ CSS3        -->  ████████████  90%
+   ║ PHP         -->  ███████████  85%
+   ║ JavaScript  -->  ███████████  85%
+   ║ C++         -->  ████████████ 90%
+   ║ Java        -->  ██████████   75%
+   ║ Shell       -->  ████████████ 95%
 
-## GitHub Stats
-![philips GitHub stats](https://github-readme-stats.vercel.app/api?username=philippanda&show_icons=true&theme=tokyonight)
+   ▄▄▄▄▄▄▄  Stats
+   ║ GitHub stats  --> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=philippanda&show_icons=true&theme=dark&hide_border=true)
 
-## Languages & Tools
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+██████████████████████████████████████████████████████
+██                                                  ██
+██           Follow me for more updates!            ██
+██                                                  ██
+██████████████████████████████████████████████████████
+```
