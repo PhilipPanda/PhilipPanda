@@ -8,7 +8,7 @@
 
 ## Projects
 - [**SecurOS**](https://securos.org): Arch-based Linux distribution tailored for pen-testing and cybersecurity experts.
-- [**Temple Cheats**](https://templecheats.xyz): Temple Client is a 1.12.2 Minecraft utility mod that enhances the anarchy server experience.
+- [**Temple Cheats**](https://templecheats.xyz): Develops cheats for various games.
 - [**Temple Enterprise**](https://templeenterprise.com): Website & Software development company.
 
 ## GitHub Stats
