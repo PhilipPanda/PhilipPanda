@@ -1,10 +1,19 @@
-## Welcome
 <!-- Social -->
-- 📫 Discord: `@templeterry`
-- 📫 Email: [contact@templeenterprise.com](mailto:contact@templeenterprise.com)
+<p align="center">
+  <a href="https://discord.com/users/@templeterry">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:contact@templeenterprise.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 <!-- Company -->
-## My Company
-[Temple Enterprise](https://templeenterprise.com)  
+<p align="center">
+  <a href="https://templeenterprise.com">
+    <img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+</p>
 
 <!-- Stats Dashboard -->
 
