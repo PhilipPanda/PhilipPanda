@@ -11,7 +11,7 @@
 <!-- Company -->
 <p align="center">
   <a href="https://templeenterprise.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/5E81AC" alt="Website" width="40" height="40">
+    <img src="https://img.icons8.com/ios-filled/50/81A1C1/domain.png" alt="Website" width="40" height="40">
   </a>
 </p>
 
@@ -38,6 +38,7 @@
   <img src="https://cdn.simpleicons.org/php/81A1C1" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/javascript/81A1C1" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/cplusplus/81A1C1" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/java/81A1C1" alt="Java" width="40" height="40"/>
+  <!-- Java icon from Icons8 -->
+  <img src="https://img.icons8.com/color/48/81A1C1/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/gnubash/81A1C1" alt="Shell Script" width="40" height="40"/>
 </p>
