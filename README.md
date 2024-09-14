@@ -1,24 +1,18 @@
-## Welcome
+<p align='center'><img src="resources/top.svg"></p>
 
-- 📫 Discord: `@templeterry`
-- 📫 Email: [contact@templeenterprise.com](mailto:contact@templeenterprise.com)
+<p align='center'>
+<a href="https://discordapp.com/users/798503509522645012/"><img src="resources/discord.svg" width="30" height="30" fill="#4493F8"></a>
+<a href="https://github.com/PhilipPanda"><img src="resources/github.svg" width="30" height="30" fill="#4493F8"></a>
+<a href="https://bytecorum.github.io/"><img src="resources/google.svg" width="30" height="30" fill="#4493F8"></a>
+</a>
+</p>
 
-## My Company
-[Temple Enterprise](https://templeenterprise.com)  
+<p align='center'><img src="resources/line.svg" width="750" ></p>
 
-## Projects
-- [**SecurOS**](https://securos.org): Arch-based Linux distribution tailored for pen-testing and cybersecurity experts.
-- [**Temple Cheats**](https://templecheats.xyz): Temple Client is a 1.12.2 Minecraft utility mod that enhances the anarchy server experience.
-- [**Temple Enterprise**](https://templeenterprise.com): Website & Software development company.
+<p align='center'><a href="https://myreadme.vercel.app/api/embed/PhilipPanda?panels=userstatistics,toprepositories,toplanguages,commitgraph"><img src="https://github-widgetbox.vercel.app/api/profile?username=philippanda&data=followers,repositories,stars,commits&theme=nautilus" width="800"></p></a>
 
-## Languages & Tools
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align='center'><img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,java,js,html,css,mysql&theme=nautilus" width="800"></p>
 
-## GitHub Stats
-![philips GitHub stats](https://github-readme-stats.vercel.app/api?username=philippanda&show_icons=true&theme=tokyonight)
+<p align='center'><img src="resources/bottom.svg"></p>
+
+<!--<p align='center'><img src="https://myreadme.vercel.app/api/embed/ByteCorum?panels=userstatistics,toprepositories,toplanguages,commitgraph" width="800"></p>-->
