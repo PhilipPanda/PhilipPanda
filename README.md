@@ -1,5 +1,3 @@
-## Welcome
-
 - 📫 Discord: `@templeterry`
 - 📫 Email: [contact@templeenterprise.com](mailto:contact@templeenterprise.com)
 
