@@ -1,2 +1,2 @@
 - Discord: `@templeterry`
-- Email: [contact@templeenterprise.com](mailto:contact@templeenterprise.com)
+- Email: [philip.seifert@templeenterprise.com](mailto:philip.seifert@templeenterprise.com)
